@@ -1,0 +1,48 @@
+
+
+  
+  fieldset{
+   border:10px solid darkblue;
+   box-shadow:3px 3px 11px yellow ,
+              -3px -3px 11px yellow  ;
+   border-radius:20px;
+   margin:auto;
+   padding:0px;
+    padding-bottom: 30px;
+   outline:none;
+   width:800px;
+   height:400px;
+   margin-top:50px;
+   
+  
+  }
+  
+  #m{
+    height:800px;
+    width:800px; 
+	margin:12px;
+	filter:contrast(700%);
+	box-shadow: 10px 10px 11px yellow;
+	position:static;
+	top:150;
+	left:150px;
+	z-index:1;
+  
+  
+  }
+  #m img#z{
+           width:100px;
+		   height:100px;
+           border:2px solid red;
+		   border-radius:50px;
+		   position:static;
+	       top:150;
+	       left:150px;
+		   z-index:4;
+		   margin:10px;
+		   outline:2px solid red;
+		   
+     
+  
+  
+  }
